@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm @virendra-tarate
+# Hi there! 👋 I'm @Virendra-Tarate
 
 I'm a passionate software developer with expertise in HTML5, CSS3, and JavaScript. I'm also well-versed in Java, from core concepts to advanced techniques, and I've developed various projects using Java in Android Studio. Additionally, I'm diving into the world of machine learning and building models using Python.
 
