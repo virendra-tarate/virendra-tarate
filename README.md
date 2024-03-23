@@ -35,6 +35,26 @@ Here are some of the projects I've worked on:
    - Tech Stack: Java, XML, Some HTML5 and CSS3, Android Studio, etc.
    - [GitHub Repository](https://github.com/virendra-tarate/Anonymous-Browser.git)
 
+3. **Contact Book**
+   - Description:
+     The Contact Book Android App allows users to create, update, delete, and search contacts. The app uses Firebase for data storage, providing a seamless experience for users to manage their contacts.
+   - Tech Stack: Java, XML, Firebase (Real time Database & Authentication), Android Studio, etc.
+   - [GitHub Repository](https://github.com/virendra-tarate/Contact-Book.git)
+  
+4. **PassGen-Pro**
+   - Description:
+     A simple Password Generator app that generates strong and secure passwords for your online accounts.Generate strong and secure passwords effortlessly with the Password Generator App. This simple yet powerful tool allows you to create complex passwords tailored to your needs. You can specify the length of the password and choose from various character sets to meet the requirements of different websites and services. With the ability to copy passwords to the clipboard in just one click, enhancing your online security has never been easier.Safeguard your online accounts and improve your digital security with the Password Generator App.
+   - Tech Stack: Graphic User Interface (GUI) Design, Android Studio, Java, Android Design, Android Development, etc.
+   - [GitHub Repository](https://github.com/virendra-tarate/PassGen-Pro.git)
+  
+5. **YT Downloader**
+   - Description:
+     YT Downloader is an Android app that allows you to download YouTube videos for offline viewing. With an intuitive interface and fast download speeds, it's a convenient tool for saving your favorite videos directly to your device.
+   -Disclaimer:
+      Please note that downloading YouTube videos without the explicit permission of the content creator may violate YouTube's Terms of Service. This app is intended for personal use only. Ensure that you have the right to download and store the videos before proceeding with any downloads.
+   - Tech Stack: Graphic User Interface (GUI) Design, Android Studio, Java, Android Development, etc.
+   - [GitHub Repository](https://github.com/virendra-tarate/YT-Downloader.git)
+
 
 ## Contact Me
 
